@@ -1,6 +1,3 @@
-Voici une version enrichie et optimisée de ton profil pour donner un rendu plus professionnel, percutant et fluide, tout en gardant ton ton dynamique et passionné :
-
----
 
 # **Julien Bonnet – Développeur & Passionné de Tech 🚀**
 
@@ -87,7 +84,7 @@ Développement complet du site du club :
 
 ## 📊 **Statistiques GitHub – Top Langages**
 
-*(Mets ici l’intégration ou capture de l’outil GitHub ReadMe Stats si tu l’utilises, par exemple via shields.io ou autre)*
+
 
 ```md
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulienBonnet&layout=compact)
@@ -95,4 +92,3 @@ Développement complet du site du club :
 
 ---
 
-Souhaites-tu que je transforme tout cela en PDF, CV web, ou que je t’aide à générer une version LinkedIn optimisée ?
